@@ -1,0 +1,13 @@
+Mon, 12 Sep 2011 22:48:59 -0700
+doc/README_FOR_APP	Mon, 12 Sep 2011 16:01:21 -0700
+app/controllers/application_controller.rb	Mon, 12 Sep 2011 16:01:21 -0700
+app/controllers/comments_controller.rb	Mon, 12 Sep 2011 22:03:00 -0700
+app/controllers/home_controller.rb	Mon, 12 Sep 2011 16:17:31 -0700
+app/controllers/posts_controller.rb	Mon, 12 Sep 2011 22:00:26 -0700
+app/helpers/application_helper.rb	Mon, 12 Sep 2011 16:01:21 -0700
+app/helpers/comments_helper.rb	Mon, 12 Sep 2011 21:22:38 -0700
+app/helpers/home_helper.rb	Mon, 12 Sep 2011 16:17:31 -0700
+app/helpers/posts_helper.rb	Mon, 12 Sep 2011 22:42:14 -0700
+app/models/comment.rb	Mon, 12 Sep 2011 16:55:03 -0700
+app/models/post.rb	Mon, 12 Sep 2011 22:30:00 -0700
+app/models/tag.rb	Mon, 12 Sep 2011 22:19:54 -0700
